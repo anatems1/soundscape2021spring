@@ -24,31 +24,31 @@ Unpacking the car
 </tr>
 <tr>
   <td>Seagulls Chirping</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>justkiddink</td>
+  <td>Attribution License</td>
+  <td>"Flock of seagulls"</td>
+  <td><a href = "https://freesound.org/people/juskiddink/sounds/98479/">https://freesound.org/people/juskiddink/sounds/98479/</a></td>
 </tr>
 <tr>
   <td>Music at the tiki bar</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>Turkitron</td>
+  <td>Attribution License</td>
+  <td>"ukulele_em_c_g_d_100bpm"</td>
+  <td><a href = "https://freesound.org/people/turkitron/sounds/110529/">https://freesound.org/people/turkitron/sounds/110529/</a></td>
 </tr>
 <tr>
-  <td>Kids laughing and playing</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>People laughing and talking</td>
+  <td>Pfannkuchn</td>
+  <td>Creative Commons 0 License</td>
+  <td>"Party-People outdoor 01 (german)"</td>
+  <td><a href = "https://freesound.org/people/Pfannkuchn/sounds/457606/">https://freesound.org/people/Pfannkuchn/sounds/457606/</a></td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>Distant EDM</td>
+  <td>griffon_designs</td>
+  <td>Attribution License</td>
+  <td>"dirty grind"</td>
+  <td><a href = "https://freesound.org/people/griffon_designs/sounds/320553/">https://freesound.org/people/griffon_designs/sounds/320553/</a></td>
 </tr>
 </table>
 *Solution: Source audio from the internet in places where I have permission to use the materials.*
