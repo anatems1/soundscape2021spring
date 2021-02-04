@@ -2,7 +2,9 @@
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
 <project xmlns="http://audacity.sourceforge.net/xml/" projname="Quintessential Getaway_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="3.1447432004" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="YEAR" value="2010-06-05"/>
+		<tag name="ARTIST" value="Mason Smetana"/>
+		<tag name="TITLE" value="Quintessential Getaway"/>
+		<tag name="YEAR" value="2021"/>
 		<tag name="Software" value="Sound Forge Pro 10.0"/>
 	</tags>
 	<wavetrack name="462594__eelke__rough-inconsistent-waves" isSelected="0" height="126" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
