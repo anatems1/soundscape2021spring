@@ -1,13 +1,13 @@
 <b><u>February 6th, 2021 02:03PM</u></b>
 <p align="center">
-<img src="/screenshots/screen02062021_0203PM.jpg" width="600">
+<img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02062021_0203PM.JPG" width="600">
 </p>
 
 <p>
 At this point in my project I began to record some of the sounds that I will be using in the full draft. The introduction to my project will be a student (me) on the computer participating in a boring zoom class. All of the classes are catching up to the student and they are beginning to feel overwhelmed. Luckily, on this day it is a Friday. The student gains some inspiration to treat themselves to a "Quintessential Getaway". They will be entering a vehicle and driving to the beach from this point on. I am still not sure how to signal that they decide to go to the beach, but as I continue digging into the project I may find a way to do this. I recorded all of the sounds from the Voice Memo app on my iPhone. When I originally tried to insert them into audacity I received this error:
 
 <p align="center">
-<img src="/screenshots/error1.jpg" width="600">
+<img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/error1.JPG" width="600">
 </p>
 
 Eventually after looking online, I found a way to convert from the standard Apple .m4a sound file to .wav using itunes from this
