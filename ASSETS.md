@@ -1,9 +1,5 @@
 **Created Assets**
-Unpacking the car
-* Making a cocktail at the bar
-* Walking in the sand
-* Walking on the boardwalk
-* Various grunts and sighs
+*Solution: Self record these noises. A lot of this project sounds like I can become my own Foley artist!*
 <table style="width:100%">
 <tr>
   <th>Description</th>
@@ -20,10 +16,21 @@ Unpacking the car
   <td>Mason Smetana</td>
   <td>Recorded phrase of myself</td>
 </tr>
+<tr>
+  <td>Male dialogue</td>
+  <td>Mason Smetana</td>
+  <td>Recorded myself</td>
+</tr>
+<tr>
+  <td>Female dialogue</td>
+  <td>Alexia Cardiges</td>
+  <td>Recorded myself</td>
+</tr>
 </table>
-*Solution: Self record these noises. A lot of this project sounds like I can become my own Foley artist!*
+
 
 **Reporposed Assets**
+*Solution: Source audio from the internet in places where I have permission to use the materials.*
 <table style="width:100%">
 <tr>
   <th>Description</th>
@@ -38,6 +45,20 @@ Unpacking the car
   <td>Creative Commons 0 License</td>
   <td>"Computer Chimes - Logged In"</td>
   <td><a href = "https://freesound.org/people/TheAtomicBrain/sounds/351880/">https://freesound.org/people/TheAtomicBrain/sounds/351880/</a></td>
+</tr>
+<tr>
+  <td>Car Engine</td>
+  <td>Robinhood76</td>
+  <td>Attribution Noncommercial License</td>
+  <td>"01618 low sounding engine"</td>
+  <td><a href = "https://freesound.org/people/Robinhood76/sounds/95615/">https://freesound.org/people/Robinhood76/sounds/95615/</a></td>
+</tr>
+<tr>
+  <td>Car music</td>
+  <td>Nude Beach</td>
+  <td>Attribution-NonCommercial-NoDerivs 3.0</td>
+  <td>"Keep It Cool"</td>
+  <td><a href = "https://freemusicarchive.org/music/Nude_Beach/Live_at_WFMU_on_Distort_Jersey_with_Deed_Runlea_April_5_2012/Nude_Beach_-_03_-_Keep_It_Cool">https://freemusicarchive.org/music/Nude_Beach/Live_at_WFMU_on_Distort_Jersey_with_Deed_Runlea_April_5_2012/Nude_Beach_-_03_-_Keep_It_Cool</a></td>
 </tr>
 <tr>
   <td>Waves Crashing</td>
@@ -75,4 +96,3 @@ Unpacking the car
   <td><a href = "https://freesound.org/people/griffon_designs/sounds/320553/">https://freesound.org/people/griffon_designs/sounds/320553/</a></td>
 </tr>
 </table>
-*Solution: Source audio from the internet in places where I have permission to use the materials.*
