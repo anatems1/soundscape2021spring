@@ -1,3 +1,12 @@
+<b><u>February 7th, 2021 02:58PM</u></b>
+<p align="center">
+<img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02072021_1458PM.JPG" width="600">
+</p>
+
+<p>
+From the time I recently left off on my project to now, I actually created more of a script to follow in my project. My girlfriend and I recorded some dialogue to add to the soundscape and contribute to two of the "scenes" that will be in my final project. I have been tweaking how my transitions sound to make them more cohesive and less abrupt. This is one part of the project that I need to keep tweaking for the final draft. 
+</p>
+
 <b><u>February 6th, 2021 02:03PM</u></b>
 <p align="center">
 <img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02062021_2010PM.JPG" width="600">
