@@ -1,10 +1,10 @@
-<b><u>February 6th, 2021 02:03PM</u></b>
+<b><u>February 6th, 2021 08:10PM</u></b>
 <p align="center">
 <img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02062021_2010PM.JPG" width="600">
 </p>
 
 <p>
-I am currently engaged in further editing. I now added a "zoom session" to add to the mundane tasks that will eventually prompt me to want to go to the beach. I am thinking of using my girlfriend as a co-star in this production. I have found it a little difficult to formulate a cohesive story currently (I plan on making a script to fix this problem). Originally I thought that I could develop my soundscape piece by piece, but I now think that this process may be too difficult.
+I am currently engaged in further editing. I now added a "zoom session" to add to the mundane tasks that will eventually prompt me to want to go to the beach. I am thinking of using my girlfriend as a co-star in this production. I have found it a little difficult to formulate a cohesive story currently (I plan on making a script to fix this problem). Originally I thought that I could develop my soundscape piece by piece, but I now think that this process may be too difficult. At this point I also updated ASSETS.md with appropriot credit to myself for my recordings.
 </p>
 
 <b><u>February 6th, 2021 02:03PM</u></b>
