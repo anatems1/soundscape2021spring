@@ -4,6 +4,23 @@ Unpacking the car
 * Walking in the sand
 * Walking on the boardwalk
 * Various grunts and sighs
+<table style="width:100%">
+<tr>
+  <th>Description</th>
+  <th>Author</th>
+  <th>How the sound was created</th>
+</tr>
+<tr>
+  <td>Keyboard and mouse clicks</td>
+  <td>Mason Smetana</td>
+  <td>Various recordings of clicking mouse and pressing keys</td>
+</tr>
+<tr>
+  <td>Zoom recording prompt</td>
+  <td>Mason Smetana</td>
+  <td>Recorded phrase of myself</td>
+</tr>
+</table>
 *Solution: Self record these noises. A lot of this project sounds like I can become my own Foley artist!*
 
 **Reporposed Assets**
@@ -14,6 +31,13 @@ Unpacking the car
   <th>Rights</th>
   <th>Title</th>
   <th>Source</th>
+</tr>
+<tr>
+  <td>Computer Start-up</td>
+  <td>TheAtomicBrain</td>
+  <td>Creative Commons 0 License</td>
+  <td>"Computer Chimes - Logged In"</td>
+  <td><a href = "https://freesound.org/people/TheAtomicBrain/sounds/351880/">https://freesound.org/people/TheAtomicBrain/sounds/351880/</a></td>
 </tr>
 <tr>
   <td>Waves Crashing</td>
