@@ -1,3 +1,12 @@
+<b><u>February 7th, 2021 11:00PM</u></b>
+<p align="center">
+<img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02072021_2300PM.JPG" width="600">
+</p>
+
+<p>
+I feel like I was able to create a cohesive soundscape during this studio session. I had fun stitching together each of my sounds to increase the fluidity of the overall project. I really took use of the "fade in" and "fade out" tools to create a sense of walking through different areas in my soundscape. I also found two songs from the <a href="https://freemusicarchive.org/search">Free Music Archive</a> that really fit well in different places of my project. From here I will continue to update my ASSETS.md and README.md file so they will be ready for class on Tuesday.
+</p>
+
 <b><u>February 7th, 2021 02:58PM</u></b>
 <p align="center">
 <img src="https://github.com/anatems1/soundscape2021spring/blob/master/screenshots/screen02072021_1458PM.JPG" width="600">
@@ -14,7 +23,7 @@ From the time I recently left off on my project to now, I actually created more 
 </p>
 
 <p>
-I am currently engaged in further editing. I now added a "zoom session" to add to the mundane tasks that will eventually prompt me to want to go to the beach. I am thinking of using my girlfriend as a co-star in this production. I have found it a little difficult to formulate a cohesive story currently (I plan on making a script to fix this problem). Originally I thought that I could develop my soundscape piece by piece, but I now think that this process may be too difficult. At this point I also updated ASSETS.md with appropriot credit to myself for my recordings.
+I am currently engaged in further editing. I now added a "zoom session" to add to the mundane tasks that will eventually prompt me to want to go to the beach. I am thinking of using my girlfriend as a co-star in this production. I have found it a little difficult to formulate a cohesive story currently (I plan on making a script to fix this problem). Originally I thought that I could develop my soundscape piece by piece, but I now think that this process may be too difficult. At this point I also updated ASSETS.md with appropriate credit to myself for my recordings.
 </p>
 
 <b><u>February 6th, 2021 02:03PM</u></b>
