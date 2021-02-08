@@ -75,11 +75,11 @@
   <td><a href = "https://freesound.org/people/juskiddink/sounds/98479/">https://freesound.org/people/juskiddink/sounds/98479/</a></td>
 </tr>
 <tr>
-  <td>Music at the tiki bar</td>
-  <td>Turkitron</td>
-  <td>Attribution License</td>
-  <td>"ukulele_em_c_g_d_100bpm"</td>
-  <td><a href = "https://freesound.org/people/turkitron/sounds/110529/">https://freesound.org/people/turkitron/sounds/110529/</a></td>
+  <td>Music at tiki bar</td>
+  <td>Jenny Mayhem</td>
+  <td>Attribution-NonCommercial-ShareAlike 3.0</td>
+  <td>"Seeing Stars"</td>
+  <td><a href = "https://freemusicarchive.org/music/Jenny_Mayhem/Seeing_Stars_Single/Seeing_Stars">https://freemusicarchive.org/music/Jenny_Mayhem/Seeing_Stars_Single/Seeing_Stars</a></td>
 </tr>
 <tr>
   <td>People laughing and talking</td>
