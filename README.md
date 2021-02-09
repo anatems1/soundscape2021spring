@@ -1,3 +1,3 @@
 # Mason Smetana's Soundscape Project
 
-This is a future assignment that will be updated throughout the next few weeks or so.
+In the soundscape titled "Quintessential Getaway", the listener will be engaged in a vacation experience that may be familiar to most. Some familiar and mundane activities will be expressed as soon as the play button is pressed. This alone is enough to have the listener thirsting for a spontaneous weekend getaway.  Along the way, through a perceivably short car ride, the listener will be taken to their first destination: a Tiki bar right on the beach. The special drink of choice and peaceful setting of the waves crashing might just be so relaxing that you may forget about the reason you wanted to getaway in the first place.
